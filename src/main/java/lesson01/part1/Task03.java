@@ -15,6 +15,10 @@ public class Task03 {
      */
 
     public static void main(String[] args) {
-        // Напишите здесь ваш код
+        int now = 2019;
+        int old = 98;
+        int since = now - old;
+
+        System.out.println(since);
     }
 }
